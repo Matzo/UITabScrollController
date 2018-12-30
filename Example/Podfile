@@ -1,0 +1,11 @@
+use_frameworks!
+platform :ios, '10.0'
+
+target 'UITabScrollController_Example' do
+  pod 'UITabScrollController', :path => '../'
+
+  target 'UITabScrollController_Tests' do
+    inherit! :search_paths
+
+  end
+end

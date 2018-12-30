@@ -1,0 +1,16 @@
+PODS:
+  - UITabScrollController (0.1.0)
+
+DEPENDENCIES:
+  - UITabScrollController (from `../`)
+
+EXTERNAL SOURCES:
+  UITabScrollController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UITabScrollController: 559c74f39aff09afe32b1099fdc931e51b9bc6a3
+
+PODFILE CHECKSUM: cc6546005b83a075c2012fa10dac799bfa699039
+
+COCOAPODS: 1.4.0

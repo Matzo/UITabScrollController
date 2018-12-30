@@ -1,0 +1,22 @@
+{
+  "name": "UITabScrollController",
+  "version": "0.1.0",
+  "summary": "A short description of UITabScrollController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ksk.matsuo@gmail.com/UITabScrollController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ksk.matsuo@gmail.com": "ksk.matsuo@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ksk.matsuo@gmail.com/UITabScrollController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "UITabScrollController/Classes/**/*"
+}
