@@ -5,6 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/UITabScrollController.svg?style=flat)](https://cocoapods.org/pods/UITabScrollController)
 [![Platform](https://img.shields.io/cocoapods/p/UITabScrollController.svg?style=flat)](https://cocoapods.org/pods/UITabScrollController)
 
+## Features
+
+- [x] Infinite loop tabs
+- [x] Display badge on tabs
+- [x] Shrinkable header
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
