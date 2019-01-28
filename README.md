@@ -11,6 +11,8 @@
 - [x] Display badge on tabs
 - [x] Shrinkable header
 
+![output](https://user-images.githubusercontent.com/144278/51844705-346b0080-2359-11e9-9737-881f0ce1e2be.gif)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
